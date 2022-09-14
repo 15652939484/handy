@@ -1,0 +1,27 @@
+{
+    "id": "8E99A735",
+    "path": "F:/packages/test-packages/handy.R",
+    "project_path": null,
+    "type": "r_source",
+    "hash": "3544880484",
+    "contents": "",
+    "dirty": false,
+    "created": 1663120220900.0,
+    "source_on_save": false,
+    "relative_order": 3,
+    "properties": {
+        "tempName": "Untitled1",
+        "source_window_id": "",
+        "Source": "Source",
+        "cursorPosition": "4,0",
+        "scrollLine": "0"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1663120528,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1663120528267,
+    "read_only": false,
+    "read_only_alternatives": []
+}
